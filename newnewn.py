@@ -1,0 +1,1 @@
+print("thik xa hajur thikxa")
